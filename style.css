@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    background-color: #110f38;
+} */
+
+.carousel-gambar {
+    background-size: cover;
+    height: 440px;
+}
+.carousel-gambar img {
+    height: 400px;
+}
+
+.navbar {
+    font-weight: bold;
+    padding: 15px;
+}
+.navbar active{
+    color: black;
+}
+.nav-button {
+    border-radius: 20px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.tampilan-kanan {
+    float: right;
+}
+/* ul {
+    margin-left: auto;
+} */
+ul li {
+    margin-right: 20px;
+}
+
+.gambar-kiri {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
